@@ -1,0 +1,64 @@
+# Python artifacts
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+.env
+instance/
+
+# Ticketing Backend specific
+ticketing_backend/__pycache__/
+ticketing_backend/.env
+ticketing_backend/instance/
+
+# Ticketing Frontend specific
+ticketing_frontend/node_modules/
+ticketing_frontend/dist/
+ticketing_frontend/.env.local
+
+# Log files and databases
+*.log
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE directories
+.vscode/
+.idea/
+``` 
+
+
+# Python artifacts
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+.env
+instance/
+
+# Ticketing Backend specific
+ticketing_backend/__pycache__/
+ticketing_backend/.env
+ticketing_backend/instance/
+
+# Ticketing Frontend specific
+ticketing_frontend/node_modules/
+ticketing_frontend/dist/
+ticketing_frontend/.env.local
+
+# Log files and databases
+*.log
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE directories
+.vscode/
+.idea/
+``` 
