@@ -1,3 +1,38 @@
+# St. Elizabeth Ticketing and Request Management System
+
+## Overview
+
+The project is a comprehensive ticketing and request management system for St. Elizabeth. It is designed to support complete workflows for ticket lifecycle management, admin oversight, and reporting, ensuring both users and administrators have the necessary tools for effective issue tracking and resolution.
+
+## Architecture
+
+### Backend
+
+- **Framework:** Flask
+- **Database:** SQLAlchemy
+- **Key Features:**
+  - Ticket creation with support for file attachments
+  - Comment management
+  - Handling of various request types:
+    - Equipment requests
+    - User (new employee) requests
+    - Student requests
+  - Task management
+  - Role-based access control
+  - Email notifications
+  - Endpoints for statistics and logging
+
+### Frontend
+
+- **Framework:** React with TypeScript
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS
+- **Key Features:**
+  - Modern interface for creating and viewing tickets and requests
+  - Task management interface
+  - Interactive components including headers, sidebars, modals, and forms
+  - Features such as assignment modals, notifications, and a bug report system
+
 
 ## Pictures
 ![image](https://github.com/user-attachments/assets/853bf2ea-804f-4a9d-aa7f-030ef599ae5b)
