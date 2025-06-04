@@ -4,7 +4,7 @@ export const API_BASE_URL = 'http://10.2.0.6:5000/api'; // Adjust if your backen
 export const DATE_FORMAT = "yyyy-MM-dd";
 export const DATETIME_FORMAT = "yyyy-MM-dd HH:mm";
 
-export const SUPER_ADMIN_EMAIL_PLACEHOLDER = "dominicminnich@gmail.com"; // From .env, for frontend checks where applicable
+export const SUPER_ADMIN_EMAIL_PLACEHOLDER = "example@gmail.com"; // Placeholder for super admin email
 
 export const DEPARTMENTS = ['IT', 'Maintenance', 'Management'];
 export const TASK_CATEGORIES = ['tech', 'maintenance', 'administration'];
