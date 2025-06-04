@@ -1,0 +1,5 @@
+{
+  "name": "St. Elizabeth Ticket System",
+  "description": "A comprehensive ticketing and request management system for St. Elizabeth, including equipment, user, and student requests, along with task management and an AI assistant.",
+  "requestFramePermissions": []
+}

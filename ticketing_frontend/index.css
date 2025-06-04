@@ -1,0 +1,25 @@
+.app-background {
+  position: relative;
+  min-height: 100vh;
+}
+
+.app-background::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('/wall1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  z-index: -1;
+  transition: filter 0.3s ease;
+}
+
+/* Dark mode - dimmer image */
+.dark .app-background::before {
+    background-image: url('/wall3.jpg');
+}
