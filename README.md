@@ -1,4 +1,11 @@
 
+## Pictures
+![image](https://github.com/user-attachments/assets/853bf2ea-804f-4a9d-aa7f-030ef599ae5b)
+
+![image](https://github.com/user-attachments/assets/0c183352-6e33-4527-894b-fbd8b8c34dd5)
+
+![image](https://github.com/user-attachments/assets/5e621ae4-066c-40da-aeb2-cc0d7b40c184)
+
 ## Setup and Installation
 
 ### Prerequisites
@@ -161,7 +168,8 @@ The primary configuration for the backend is done via the `.env` file in the `ti
 The frontend's `API_BASE_URL` is configured in `ticketing_frontend/constants.ts` and should point to your backend's address. The `GEMINI_API_KEY` for the frontend is in `ticketing_frontend/.env.local`.
 
 ## License
-"All Rights Reserved"
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).  
+You are free to view, fork, and modify this code for personal, educational, or recruitment-related purposes, **but you may not use it for any commercial purpose whatsoever**.
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
