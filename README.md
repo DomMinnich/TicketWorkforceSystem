@@ -1,8 +1,8 @@
-# St. Elizabeth Ticketing and Request Management System
+# Ticketing and Request Management System
 
 ## Overview
 
-The project is a comprehensive ticketing and request management system for St. Elizabeth. It is designed to support complete workflows for ticket lifecycle management, admin oversight, and reporting, ensuring both users and administrators have the necessary tools for effective issue tracking and resolution.
+The project is a comprehensive ticketing and request management system for a PreK through 8 school and used in a highschool (9-12). It is designed to support complete workflows for ticket lifecycle management, admin oversight, and reporting, ensuring both users and administrators have the necessary tools for effective issue tracking and resolution.
 
 ## Architecture
 
