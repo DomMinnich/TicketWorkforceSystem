@@ -62,3 +62,6 @@ Thumbs.db
 .vscode/
 .idea/
 ``` 
+
+data.py
+front_data.py
