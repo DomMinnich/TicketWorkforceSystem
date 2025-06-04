@@ -1,5 +1,13 @@
 # Ticketing and Request Management System
 
+## Pictures
+![image](https://github.com/user-attachments/assets/853bf2ea-804f-4a9d-aa7f-030ef599ae5b)
+
+![image](https://github.com/user-attachments/assets/0c183352-6e33-4527-894b-fbd8b8c34dd5)
+
+![image](https://github.com/user-attachments/assets/5e621ae4-066c-40da-aeb2-cc0d7b40c184)
+
+
 ## Overview
 
 The project is a comprehensive ticketing and request management system for a PreK through 8 school and used in a highschool (9-12). It is designed to support complete workflows for ticket lifecycle management, admin oversight, and reporting, ensuring both users and administrators have the necessary tools for effective issue tracking and resolution.
@@ -33,13 +41,6 @@ The project is a comprehensive ticketing and request management system for a Pre
   - Interactive components including headers, sidebars, modals, and forms
   - Features such as assignment modals, notifications, and a bug report system
 
-
-## Pictures
-![image](https://github.com/user-attachments/assets/853bf2ea-804f-4a9d-aa7f-030ef599ae5b)
-
-![image](https://github.com/user-attachments/assets/0c183352-6e33-4527-894b-fbd8b8c34dd5)
-
-![image](https://github.com/user-attachments/assets/5e621ae4-066c-40da-aeb2-cc0d7b40c184)
 
 ## Setup and Installation
 
